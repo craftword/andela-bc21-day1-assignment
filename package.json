@@ -1,0 +1,10 @@
+{
+  "name": "Object Oriental Programming",
+  "version": "1.0.0",
+  "description": "Basic JavaScript project for demonstration of OOP concepts",
+    
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+  
+}
